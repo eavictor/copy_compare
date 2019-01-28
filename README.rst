@@ -13,7 +13,7 @@ How to use this tool like a NOOB
 .. highlights:: Type cmd
 .. highlights:: Hit Enter
 
-2. Start Copy Compare S4 cycle
+2. Start Copy Compare S3, S4 or CS cycle
 
 Examples:
 
